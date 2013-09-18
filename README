@@ -1,0 +1,16 @@
+/*
+ * wm4tots.c
+ * 
+ * Tue Sep 17 23:19:04 PDT 2013
+ *
+ * Written by math4tots.
+ * Inspired by TinyWM (https://github.com/mackstann/tinywm)
+ * 
+ * Just a minimal window manager, with features added as I want
+ * them.
+ *
+ * In the spirit of TinyWM, I will try to make this code as readable as
+ * possible for n00bies.
+ */
+
+Perhaps I will add a more useful README in the future...
